@@ -14,3 +14,13 @@ https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
 https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
 #EXTINF:0 tvg-chno="78" tvg-name="HOY資訊台" tvg-logo="" group-title="香港免費電視",HOY資訊台
 https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
+#EXTINF:0 tvg-chno="100" tvg-name="noepg" tvg-logo="" group-title="International Channel",ABC News HD
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8?rays=hjigfedcba&ad.flex=15&ad.access_level=0&expand=drmOff&v=3&ad.adunit=/abc-news/abcnews.com/web/video
+#EXTINF:0 tvg-chno="101" tvg-name="Bloomberg Television" tvg-logo="" group-title="International Channel",Bloomberg Plus
+https://liveprodusphoenixeast.global.ssl.fastly.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
+#EXTINF:0 tvg-chno="102" tvg-name="noepg" tvg-logo="" group-title="International Channel",CBSN
+https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8?iu=/8264/vaw-can/mobile_web/cbsnews_mobile
+#EXTINF:0 tvg-chno="103" tvg-name="Channel NewsAsia" tvg-logo="" group-title="International Channel",Channel News Asia HD
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:0 tvg-chno="104" tvg-name="Sky News" tvg-logo="" group-title="International Channel",Sky News International HD
+https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/06.m3u8
