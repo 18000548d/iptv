@@ -14,6 +14,8 @@ https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
 https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
 #EXTINF:0 tvg-chno="78" tvg-name="HOY資訊台" tvg-logo="" group-title="香港免費電視",HOY資訊台
 https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
+#EXTINF:0 tvg-chno="83" tvg-name="無綫新聞台" tvg-logo="" group-title="香港免費電視",無綫新聞台
+https://news.andyyip9711.workers.dev
 #EXTINF:0 tvg-chno="100" tvg-name="noepg" tvg-logo="" group-title="International Channel",ABC News HD
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8?rays=hjigfedcba&ad.flex=15&ad.access_level=0&expand=drmOff&v=3&ad.adunit=/abc-news/abcnews.com/web/video
 #EXTINF:0 tvg-chno="101" tvg-name="Bloomberg Television" tvg-logo="" group-title="International Channel",Bloomberg Plus
