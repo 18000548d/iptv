@@ -16,7 +16,7 @@ https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
 https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
 #EXTINF:0 tvg-chno="83" tvg-name="無綫新聞台" tvg-logo="https://raw.githubusercontent.com/18000548d/iptv/refs/heads/main/logo/tvbnews.jpg" group-title="香港免費電視",無綫新聞台
 https://news.andyyip9711.workers.dev
-#EXTINF:0 tvg-chno="333" tvg-name="NOW新聞台" tvg-logo="https://raw.githubusercontent.com/18000548d/iptv/refs/heads/main/logo/nownews.jpg" group-title="香港收費電視",NOW新聞台
+#EXTINF:0 tvg-chno="333" tvg-id="410344" tvg-name="NOW新聞台" tvg-logo="https://raw.githubusercontent.com/18000548d/iptv/refs/heads/main/logo/nownews.jpg" group-title="香港收費電視",NOW新聞台
 https://now-332.andyyip9711.workers.dev/
 #EXTINF:0 tvg-chno="603" tvg-name="有線18台" tvg-logo="https://raw.githubusercontent.com/18000548d/iptv/refs/heads/main/logo/cable18.jpg" group-title="香港收費電視",有線18台
 https://dbkzprpiusvoq.cloudfront.net/racing-gps/ch603-3-hls.m3u8
