@@ -12,9 +12,9 @@ https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/master.m3u8
 https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
 #EXTINF:0 tvg-chno="77" tvg-name="HOY TV" tvg-logo="https://raw.githubusercontent.com/18000548d/iptv/refs/heads/main/logo/hoytv.png" group-title="香港免費電視",HOY TV
 https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
-#EXTINF:0 tvg-chno="78" tvg-name="HOY資訊台" tvg-logo="https://raw.githubusercontent.com/18000548d/iptv/refs/heads/main/logo/hoy-info.png" group-title="香港免費電視",HOY資訊台
+#EXTINF:0 tvg-chno="78" tvg-id="" tvg-name="HOY資訊台" tvg-logo="https://raw.githubusercontent.com/18000548d/iptv/refs/heads/main/logo/hoy-info.png" group-title="香港免費電視",HOY資訊台
 https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
-#EXTINF:0 tvg-chno="83" tvg-name="無綫新聞台" tvg-logo="https://raw.githubusercontent.com/18000548d/iptv/refs/heads/main/logo/tvbnews.jpg" group-title="香港免費電視",無綫新聞台
+#EXTINF:0 tvg-chno="83" tvg-id="368359" tvg-name="無綫新聞台" tvg-logo="https://raw.githubusercontent.com/18000548d/iptv/refs/heads/main/logo/tvbnews.jpg" group-title="香港免費電視",無綫新聞台
 https://news.andyyip9711.workers.dev
 #EXTINF:0 tvg-chno="333" tvg-id="410344" tvg-name="NOW新聞台" tvg-logo="https://raw.githubusercontent.com/18000548d/iptv/refs/heads/main/logo/nownews.jpg" group-title="香港收費電視",NOW新聞台
 https://now-332.andyyip9711.workers.dev/
