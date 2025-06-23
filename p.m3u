@@ -28,5 +28,3 @@ https://liveprodusphoenixeast.global.ssl.fastly.net/USPhx-HD/Channel-TX-USPhx-AW
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8?iu=/8264/vaw-can/mobile_web/cbsnews_mobile
 #EXTINF:0 tvg-chno="903" tvg-name="Channel NewsAsia" tvg-logo="https://raw.githubusercontent.com/18000548d/iptv/refs/heads/main/logo/cna.png" group-title="International Channel",Channel News Asia HD
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:0 tvg-chno="904" tvg-name="Sky News" tvg-logo="https://raw.githubusercontent.com/18000548d/iptv/refs/heads/main/logo/skynews.jpg" group-title="International Channel",Sky News International HD
-https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/06.m3u8
