@@ -18,6 +18,8 @@ https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
 https://news.andyyip9711.workers.dev
 #EXTINF:0 tvg-chno="333" tvg-name="NOW新聞台" tvg-logo="" group-title="香港收費電視",NOW新聞台
 https://now-332.andyyip9711.workers.dev/
+#EXTINF:0 tvg-chno="603" tvg-name="有線18台" tvg-logo="" group-title="香港收費電視",有線18台
+https://dbkzprpiusvoq.cloudfront.net/racing-gps/ch603-3-hls.m3u8
 #EXTINF:0 tvg-chno="900" tvg-name="noepg" tvg-logo="" group-title="International Channel",ABC News HD
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8?rays=hjigfedcba&ad.flex=15&ad.access_level=0&expand=drmOff&v=3&ad.adunit=/abc-news/abcnews.com/web/video
 #EXTINF:0 tvg-chno="901" tvg-name="Bloomberg Television" tvg-logo="" group-title="International Channel",Bloomberg Plus
